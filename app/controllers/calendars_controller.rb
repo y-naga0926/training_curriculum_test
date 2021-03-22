@@ -19,7 +19,7 @@ class CalendarsController < ApplicationController
   end
 
 
-  def get_Week
+  def get_week
     wdays = ['(日)','(月)','(火)','(水)','(木)','(金)','(土)']
 
     
